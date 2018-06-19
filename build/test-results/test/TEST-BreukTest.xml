@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BreukTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-06-19T12:37:39" hostname="iMac-100.local" time="0.017">
+  <properties/>
+  <testcase name="breukenDelenCheck" classname="BreukTest" time="0.016"/>
+  <testcase name="breukenVermenigvuldigenCheck" classname="BreukTest" time="0.0"/>
+  <testcase name="breukenAftrekkenCheck" classname="BreukTest" time="0.001"/>
+  <testcase name="breukenOptellenCheck" classname="BreukTest" time="0.0"/>
+  <system-out><![CDATA[10 / 12
+6 / 20
+-2 / 20
+22 / 20
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
